@@ -1,0 +1,8 @@
+mediapipe==0.10.33
+opencv-python
+scikit-learn
+numpy
+pandas
+gtts
+pygame
+pillow
