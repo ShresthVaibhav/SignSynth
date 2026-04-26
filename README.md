@@ -2,7 +2,7 @@
 
 > Bridging the communication gap for the deaf and mute community using Computer Vision and Machine Learning.
 
-![Architecture](SignSynth_Architecture.png)
+![Architecture](https://files.catbox.moe/rz2zbh.png)
 
 ---
 
