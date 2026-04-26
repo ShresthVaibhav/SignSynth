@@ -1,0 +1,16 @@
+.venv/
+dataset/
+isl_landmarks.csv
+landmarks.csv
+landmarks2.csv
+phrases_landmarks.csv
+genshinfont.ttf
+extract_landmarks2.py
+train_model_merge.py
+train_phrases.py
+main.py
+mm.py
+model_isl.pkl
+__pycache__/
+.idea/
+*.pyc
